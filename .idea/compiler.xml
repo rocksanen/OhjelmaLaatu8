@@ -9,5 +9,8 @@
         <module name="Laatu8" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Laatu8" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>
